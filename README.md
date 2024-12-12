@@ -35,24 +35,3 @@ The dataset is highly imbalanced, with a small percentage of clicks compared to 
 1. **Preprocess the dataset:** Handle missing values, encode categorical features, and balance the data.
 2. **Random Forest:** Classifier to predict the probability of a click.
 3. **Evaluation:** Evaluate model performance using metrics such as AUC-ROC, accuracy, and log-loss.
-
-
-## Preprocess the dataset
-
-
-
-
-
-
-## Random Forest
-
-
-
-
-
-## Evaluation
-
-
-
-## Conclusion
-
